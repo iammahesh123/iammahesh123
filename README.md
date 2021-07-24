@@ -1,10 +1,10 @@
-Hello 👋 I’m kadambala mahesh
+<h>Hello 👋 I’m kadambala mahesh</h>
               
               
 - 🎓 Studying Imformation Technology
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently Learning ML,Android Application Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Learning Machine Learning,java
+- 💞️ I’m currently working on Internship at Suvidha Foundation
 - 📫 How to reach me maheshkadambala18@gmail.com
 
 <!---
