@@ -1,4 +1,6 @@
-- 👋 Hi, I’m kadambala mahesh
+Hello 👋 I’m kadambala mahesh
+              
+              
 - 🎓 Studying Imformation Technology
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently Learning ML,Android Application Development
