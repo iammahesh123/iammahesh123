@@ -3,7 +3,7 @@
               
 - 🎓 Studying Imformation Technology
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently Learning Machine Learning,java
+- 🌱 I’m currently Learning Java,Machine Learning
 - 💞️ I’m currently working on Internship at Suvidha Foundation
 - 📫 How to reach me maheshkadambala18@gmail.com
 
