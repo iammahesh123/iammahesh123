@@ -5,7 +5,7 @@
 - 👀 I’m freelancer Android Developer.
 - 🌱 I’m currently Learning Amazon Web Service.
 - 📫 How to reach me maheshkadambala18@gmail.com
-- Skills:
+- 👨🏻‍💻 Skills:
 - Android Development
 - Java
 - Firebase/SQL Databases
