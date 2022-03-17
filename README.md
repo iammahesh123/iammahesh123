@@ -6,10 +6,10 @@
 - 🌱 I’m currently Learning Amazon Web Service.
 - 📫 How to reach me maheshkadambala18@gmail.com
 - 👨🏻‍💻 Skills:
-- Android Development
-- Java
+- Android Development(Java/XML)
+- Web Technologies(HTML/CSS)
 - Firebase/SQL Databases
-- HTML/CSS
+- Java
 - c/c++
 - python
 <!---
