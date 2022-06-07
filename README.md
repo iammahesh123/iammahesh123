@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm mahesh</h1>
 <h3 align="center">Freelancer | Android Developer</h3>
-<img align="right" alt="coding" width="400" src="https://www.softermii.com/assets/uploads/blog/20190301/cover-lg.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammahesh123&label=Profile%20views&color=0e75b6&style=flat" alt="iammahesh123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammahesh123" alt="iammahesh123" /></a> </p>
+
 
 - 🔭 I’m currently working on **Android App Development**
 
