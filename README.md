@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm mahesh</h1>
-<h3 align="left">Freelancer | Android Developer</h3>
+<h1 align="center">Hi 👋, I'm mahesh</h1>
+<h3 align="center">Freelancer | Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammahesh123&label=Profile%20views&color=0e75b6&style=flat" alt="iammahesh123" /> </p>
 
@@ -16,8 +16,7 @@
 - 📄 Know about my experiences [https://maheshkadambala.vercel.app/](https://maheshkadambala.vercel.app/)
 
 - ⚡ Fun fact **I am funny**
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=iammahesh123" alt="iammahesh123" /></a> </p>
+
 
 
 
