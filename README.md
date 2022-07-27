@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Android App Development**
+- 🔭 I’m currently working on **Frontend Web Development**
 
-- 🌱 I’m currently learning **Amazon Web Service**
+- 🌱 I’m currently learning **Data Structures and algorthims using Java**
 
 - 💬 Ask me about **Java,App development**
 
