@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mahesh</h1>
-<h3 align="center">Android Developer | Freelancer</h3>
+<h3 align="center">Java Developer | Freelancer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammahesh123&label=Profile%20views&color=0e75b6&style=flat" alt="iammahesh123" /> </p>
 
