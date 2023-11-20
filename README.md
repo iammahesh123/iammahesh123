@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **maheshkadambala18@gmail.com**
 
-- 📄 Know about my experiences [https://maheshkadambala.vercel.app/](https://maheshkadambala.vercel.app/)
+- 📄 Know about my experiences [https://maheshkadambala.vercel.app/](https://kadambalamahesh.me)
 
 - ⚡ Fun fact **I am funny**
 
