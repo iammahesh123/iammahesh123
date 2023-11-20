@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [https://kadambalamahesh.me](https://kadambalamahesh.me)
 
-- ⚡ Fun fact **I am funny**
 
 
 
