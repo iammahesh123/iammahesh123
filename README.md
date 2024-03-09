@@ -1,21 +1,12 @@
-<div align="center">
-  <img height="150" src="https://github.com/iammahesh123/image/blob/main/1692735059243.jpg"  />
-</div>
+
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/maheshkadambala/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="maheshkadambala7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="left">hey there 👋</h1>
 
 ###
 
@@ -26,6 +17,16 @@
 <p align="left">I'm Mahesh from India<br><br>- 🔭 Working as a freelancer at GFG (GeeksforGeeks)<br>- 📚 Currently learning frontend frameworks<br>- ⚡ Enjoy content writing in free time, particularly on Java topics</p>
 
 ###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/maheshkadambala/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="maheshkadambala7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
