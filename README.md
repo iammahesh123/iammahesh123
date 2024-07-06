@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Mahesh from India<br><br>- 🔭 Working as a freelancer at GFG (GeeksforGeeks)<br>- 📚 Currently learning frontend frameworks<br>- ⚡ Enjoy content writing in free time, particularly on Java topics</p>
+<p align="left">I'm Mahesh from India<br><br>- 🔭 Working as a Java Intern at Auxentios Technology Solutions <br>- 📚 Currently learning frontend frameworks<br>- ⚡ Enjoy content writing in free time, particularly on Java topics</p>
 
 ###
 
